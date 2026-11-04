@@ -1,0 +1,5 @@
+Stage,Count,Conversion_Rate
+下单(Placed),99440,1.0
+审批(Approved),99440,1.0
+发货(Shipped),99440,1.0
+妥投(Delivered),99440,1.0
